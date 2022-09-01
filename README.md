@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @lucidkuki and I also go by the name of Aleksandra sometimes. Cat lover, plant nurturer. In my spare time I love solving jigsaw puzzles, improving my anxious self and learning to love the life I've created for myself. 
+- 👋 Hi, I’m @lucidkuki and I also go by the name of Aleksandra . Cat lover, plant nurturer. In my spare time I love solving jigsaw puzzles, improving and learning to love the life I've created for myself. 
 - 👀 I’m interested in web design, web development and QA.
-- 🌱 I’m currently learning HTML, CSS, Bootstrap, SQL and manual testing.
-- 💞️ I’m looking for ways to practice manual testing online for free in order to get more confident when applying for jobs as I am transfering from Chemistry to the IT field.
+- 🌱 I’m currently learning Java,Manual and automated testing, HTML, CSS.
 - 📫 How to reach me email: akicadjokanovic@gmail.com LinkedIn profile: https://www.linkedin.com/in/aleksandra-djokanovic-4b232016a/
 
 <!---
